@@ -2,6 +2,5 @@
 This is NLP based resume information extractor 
 
 
-Tools used
-
-Used pandas, scapy for nlp processing
+Tools used:
+Pandas, Scapy for NLP processing
